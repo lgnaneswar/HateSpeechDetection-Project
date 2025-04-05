@@ -9,9 +9,8 @@ This Hate Speech Detection App is a project that leverages a Decision Tree Class
 4. Visual and text-to-speech result presentation
 
 # Getting Started
-1. Clone the repository: "git clone https://github.com/your-username/hate-speech-detection-app.git"
-2. Install dependencies: "pip install -r requirements.txt"
-3. Run the app: "streamlit run app.py"
+1. Clone the repository: "git clone https://github.com/lgnaneswar/HateSpeechDetection-Project.git"
+2. Run the app: "streamlit run app.py"
 
 # Usage
 1. Enter text in the provided input box.
